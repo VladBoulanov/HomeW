@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\Home3\Home3\obj\Debug\Home3.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Home3\Home3\obj\Debug\Home3.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Home3\Home3\bin\Debug\Home3.exe.config
+C:\Users\Vlad\source\repos\Home3\Home3\bin\Debug\Home3.exe
+C:\Users\Vlad\source\repos\Home3\Home3\bin\Debug\Home3.pdb
+C:\Users\Vlad\source\repos\Home3\Home3\obj\Debug\Home3.exe
+C:\Users\Vlad\source\repos\Home3\Home3\obj\Debug\Home3.pdb

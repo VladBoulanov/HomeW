@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\Домашняя 4\Домашняя 4\bin\Debug\Домашняя 4.exe.config
+C:\Users\Vlad\source\repos\Домашняя 4\Домашняя 4\bin\Debug\Домашняя 4.exe
+C:\Users\Vlad\source\repos\Домашняя 4\Домашняя 4\bin\Debug\Домашняя 4.pdb
+C:\Users\Vlad\source\repos\Домашняя 4\Домашняя 4\obj\Debug\Домашняя 4.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Домашняя 4\Домашняя 4\obj\Debug\Домашняя 4.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Домашняя 4\Домашняя 4\obj\Debug\Домашняя 4.exe
+C:\Users\Vlad\source\repos\Домашняя 4\Домашняя 4\obj\Debug\Домашняя 4.pdb

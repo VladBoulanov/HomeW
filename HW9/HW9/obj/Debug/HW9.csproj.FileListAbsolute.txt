@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\HW9\HW9\bin\Debug\HW9.exe.config
+C:\Users\Vlad\source\repos\HW9\HW9\bin\Debug\HW9.exe
+C:\Users\Vlad\source\repos\HW9\HW9\bin\Debug\HW9.pdb
+C:\Users\Vlad\source\repos\HW9\HW9\obj\Debug\HW9.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\HW9\HW9\obj\Debug\HW9.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\HW9\HW9\obj\Debug\HW9.exe
+C:\Users\Vlad\source\repos\HW9\HW9\obj\Debug\HW9.pdb

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Reminder.Storage.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Reminder.Storage.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Reminder.Storage.Core.dll": {}
+        }
+      },
+      "ReminderStorage.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Reminder.Storage.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReminderStorage.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReminderStorage.InMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reminder.Storage.Core/1.0.0": {
+      "type": "project",
+      "path": "../Reminder.Storage.Core/Reminder.Storage.Core.csproj",
+      "msbuildProject": "../Reminder.Storage.Core/Reminder.Storage.Core.csproj"
+    },
+    "ReminderStorage.InMemory/1.0.0": {
+      "type": "project",
+      "path": "../ReminderStorage.InMemory/ReminderStorage.InMemory.csproj",
+      "msbuildProject": "../ReminderStorage.InMemory/ReminderStorage.InMemory.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Reminder.Storage.Core >= 1.0.0",
+      "ReminderStorage.InMemory >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vlad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\Home\\ReminderProgramm\\Reinder.csproj",
+      "projectName": "Reinder",
+      "projectPath": "C:\\Users\\Vlad\\Desktop\\Home\\ReminderProgramm\\Reinder.csproj",
+      "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vlad\\Desktop\\Home\\ReminderProgramm\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Vlad\\Desktop\\Home\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj": {
+              "projectPath": "C:\\Users\\Vlad\\Desktop\\Home\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj"
+            },
+            "C:\\Users\\Vlad\\Desktop\\Home\\ReminderStorage.InMemory\\ReminderStorage.InMemory.csproj": {
+              "projectPath": "C:\\Users\\Vlad\\Desktop\\Home\\ReminderStorage.InMemory\\ReminderStorage.InMemory.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {}
+    }
+  }
+}

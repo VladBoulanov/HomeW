@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Reinder/1.0.0": {
+        "dependencies": {
+          "Reminder.Storage.Core": "1.0.0",
+          "ReminderStorage.InMemory": "1.0.0"
+        },
+        "runtime": {
+          "Reinder.dll": {}
+        }
+      },
+      "Reminder.Storage.Core/1.0.0": {
+        "runtime": {
+          "Reminder.Storage.Core.dll": {}
+        }
+      },
+      "ReminderStorage.InMemory/1.0.0": {
+        "dependencies": {
+          "Reminder.Storage.Core": "1.0.0"
+        },
+        "runtime": {
+          "ReminderStorage.InMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reminder.Storage.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReminderStorage.InMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

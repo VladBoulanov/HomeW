@@ -1,0 +1,8 @@
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\bin\Debug\netstandard2.0\Reminder.Storage.Core.deps.json
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\bin\Debug\netstandard2.0\Reminder.Storage.Core.dll
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\bin\Debug\netstandard2.0\Reminder.Storage.Core.pdb
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.csprojAssemblyReference.cache
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.AssemblyInfoInputs.cache
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.AssemblyInfo.cs
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.dll
+C:\Users\26str\source\repos\Reinder\Reminder.Storage.Core\obj\Debug\netstandard2.0\Reminder.Storage.Core.pdb

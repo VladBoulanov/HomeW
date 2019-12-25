@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Vlad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vlad\\Desktop\\Home\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj",
+      "projectName": "Reminder.Storage.Core",
+      "projectPath": "C:\\Users\\Vlad\\Desktop\\Home\\Reminder.Storage.Core\\Reminder.Storage.Core.csproj",
+      "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vlad\\Desktop\\Home\\Reminder.Storage.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {}
+    }
+  }
+}
